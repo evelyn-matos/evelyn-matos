@@ -2,14 +2,15 @@
 
   Meu nome é Evelyn Matos... Atualmente estudo programação com cursos online, e começarei a faculdade em Março!
   
-  Ja tenho um bom conhecimento em HTML, CSS e Javascript, iniciando os estudos em Typescript e React!
+  Ja tenho um bom conhecimento em HTML, CSS e Javascript, iniciando os estudos em Typescript e React! 📖
   
-  Atualmente moro em Vitória-ES mas sou do interior Mato Grosso do Sul, sempre tive a ideia (limitada) que a area de TI era aquela pessoa que "formata os computadores" rsrs, e quando descobri sobre a area de desenvolvimento eu simplesmente me apaixonei! 
+  Atualmente moro em Vitória-ES mas sou do interior Mato Grosso do Sul, sempre tive a ideia (limitada) que a area de TI era aquela pessoa que "formata os computadores" rsrs, e quando descobri sobre a area de desenvolvimento eu simplesmente me apaixonei! 🤩
   
   Eu adoro aprender coisas novas e desafios e isso é exatamente a vida de um desenvolvedor, Hoje busco uma oportunidade 
   para entrar na area de desenvolvimento Frontend para contribuir com meu conhecimento e aprender com uma equipe de devs mais experientes 😄
   
-  
+  </br>
+  </br>
   
   
 <div align="center">
