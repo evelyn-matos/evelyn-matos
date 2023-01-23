@@ -9,6 +9,13 @@
   Eu adoro aprender coisas novas e desafios e isso é exatamente a vida de um desenvolvedor, Hoje busco uma oportunidade 
   para entrar na area de desenvolvimento Frontend para contribuir com meu conhecimento e aprender com uma equipe de devs mais experientes 😄
   
+  ### Curiosidades 
+  - Amo Gatos (Aysla e Cirok)
+  - Adoro jogar (God Of War minha paixão)
+  - Apaixonada por Livros ("Um leitor vive mil vidas antes de morrer. O homem que não lê vive apenas uma" George R.R. Martin)
+  
+  
+  
   </br>
   </br>
   
