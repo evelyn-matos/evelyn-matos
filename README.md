@@ -1,9 +1,16 @@
-### Olá, eu sou a Evelyn Matos... 👋
+### Olá, seja bem vindo(a)... 👋
 
-👩🏻‍🎓 Estudante de Sistemas da Informação - 🚀 Futura Desenvolvedora Mobile
-
-  - ❤️ Apaixonada por Gatos, Livros e Jogos! 
-  - 📖 HTML, CSS e JS
+  Meu nome é Evelyn Matos... Atualmente estudo programação com cursos online, e começarei a faculdade em Março!
+  
+  Ja tenho um bom conhecimento em HTML, CSS e Javascript, iniciando os estudos em Typescript e React!
+  
+  Atualmente moro em Vitória-ES mas sou do interior Mato Grosso do Sul, sempre tive a ideia (limitada) que a area de TI era aquela pessoa que "formata os computadores" rsrs, e quando descobri sobre a area de desenvolvimento eu simplesmente me apaixonei! 
+  
+  Eu adoro aprender coisas novas e desafios e isso é exatamente a vida de um desenvolvedor, Hoje busco uma oportunidade 
+  para entrar na area de desenvolvimento Frontend para contribuir com meu conhecimento e aprender com uma equipe de devs mais experientes 😄
+  
+  
+  
   
 <div align="center">
   <a href="https://github.com/evelyn-matos">
@@ -22,12 +29,9 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/velyn.mm?igshid=YzgyMTM2MGM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:euevelynmatos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/evelyn-mm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![snake gif](https://github.com/evelyn-matos/evelyn-matos/blob/output/github-contribution-grid-snake.svg)
  
