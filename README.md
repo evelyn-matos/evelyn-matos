@@ -1,8 +1,8 @@
 ### Olá, seja bem vindo(a)... 👋
 
-  Meu nome é Evelyn Matos... Atualmente estudo programação com cursos online, e começarei a faculdade em Março!
+  Meu nome é Evelyn Matos... Atualmente estudo programação com cursos online, autodidata! Pretendo começar faculdade em breve de Engenharia de Software.
   
-  Ja tenho um bom conhecimento em HTML, CSS e Javascript, iniciando os estudos em Typescript e React! 📖
+  Ja tenho um bom conhecimento em HTML, CSS e Javascript, e estou aprofundando em React com TypeScript! 📖
   
   Atualmente moro em Vitória-ES mas sou do interior Mato Grosso do Sul, sempre tive a ideia (limitada) que a area de TI era aquela pessoa que "formata os computadores" rsrs, e quando descobri sobre a area de desenvolvimento eu simplesmente me apaixonei! 🤩
   
@@ -29,6 +29,8 @@
   <img align="center" alt="Evelyn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Evelyn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Evelyn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Evelyn-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Evelyn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
   <img align="right" alt="evelyn-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1033494131995054112/1033494290057408532/avatar-github.png?width=676&height=676">
 
