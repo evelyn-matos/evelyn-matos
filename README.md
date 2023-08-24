@@ -2,10 +2,10 @@
 ## Sobre mim
 
 :mortar_board: Estou cursando Análise e desenvolvimento de Sistemas na Unisales. </br>
-:books: Tenho mais conhecimento em Frontend com React e Typescript. </br>
+:rocket: Tenho mais conhecimento em Frontend com React e Typescript. </br>
 :books: Estou estudando Backend com Java. </br>
-:books: Em busca de me tornar FullStack. </br>
-:books: No meu tempo livre gosto de ler e brincar com meus gatos :) </br>
+:dart: Em busca de me tornar FullStack. </br>
+:cat2: No meu tempo livre gosto de ler e brincar com meus gatos :) </br>
 
 
 
@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/evelyn-mm/)
 
 
-## Tech Stack
+## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Sass](https://img.shields.io/badge/Sass-fff?style=for-the-badge&logo=sass)
