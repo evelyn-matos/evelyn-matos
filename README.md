@@ -4,7 +4,7 @@
 :mortar_board: Estou cursando Análise e desenvolvimento de Sistemas na Unisales. </br>
 :rocket: Tenho mais conhecimento em Frontend com React e Typescript. </br>
 :books: Estou estudando Backend com Java. </br>
-:dart: Em busca de me tornar FullStack. </br>
+:dart: Estagiária na Wine Vinhos como Desenvolvedora Java. </br>
 :cat2: No meu tempo livre gosto de ler e brincar com meus gatos :) </br>
 
 
@@ -25,6 +25,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-fff?style=for-the-badge&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/Tailwind-fff?style=for-the-badge&logo=tailwindcss)
 ![Styled-Components](https://img.shields.io/badge/StyledComponents-fff?style=for-the-badge&logo=styledcomponents)
+![Java](https://img.shields.io/badge/Java-ed7315?style=for-the-badge&logo=java)
+
 
   </br>
   </br>
